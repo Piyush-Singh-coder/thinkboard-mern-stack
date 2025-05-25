@@ -1,4 +1,4 @@
-import Note from "../models/NOte.js"
+import Note from "../models/Note.js"
 
 
 export const getNotes = async (_, res)=>{   // if not using any args or params replace by _
